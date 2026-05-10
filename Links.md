@@ -1,5 +1,8 @@
 ## 🔗 Direct Download Links
 
+### 📅 2026-05-10 11:39 (IR Time)
+- 📥 [2.0.18](https://github.com/Amo-Sajjad/RGITDownloader/raw/main/dl/2.0.18) `0.21 MB`
+
 ### 📅 2026-05-09 14:39 (IR Time)
 - 📥 [GoogleDriveRelay.zip](https://github.com/Amo-Sajjad/RGITDownloader/raw/main/dl/GoogleDriveRelay.zip) `14.16 MB`
 
