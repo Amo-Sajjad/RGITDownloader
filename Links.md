@@ -1,5 +1,8 @@
 ## 🔗 Direct Download Links
 
+### 📅 2026-05-11 15:19 (IR Time)
+- 📥 [x-ui-linux-amd64.tar.gz](https://github.com/Amo-Sajjad/RGITDownloader/raw/main/dl/x-ui-linux-amd64.tar.gz) `68.77 MB`
+
 ### 📅 2026-05-10 11:42 (IR Time)
 - 📥 [v2rayN-windows-64-desktop.zip.001](https://github.com/Amo-Sajjad/RGITDownloader/raw/main/dl/v2rayN-windows-64-desktop.zip.001) `90.00 MB`
 - 📥 [v2rayN-windows-64-desktop.zip.002](https://github.com/Amo-Sajjad/RGITDownloader/raw/main/dl/v2rayN-windows-64-desktop.zip.002) `28.17 MB`
