@@ -1,5 +1,8 @@
 ## 🔗 Direct Download Links
 
+### 📅 2026-05-14 11:42 (IR Time)
+- 📱 [v2rayNG_2.1.7_universal.apk](https://github.com/Amo-Sajjad/RGITDownloader/raw/main/dl/v2rayNG_2.1.7_universal.apk) `61.88 MB`
+
 ### 📅 2026-05-11 15:19 (IR Time)
 - 📥 [x-ui-linux-amd64.tar.gz](https://github.com/Amo-Sajjad/RGITDownloader/raw/main/dl/x-ui-linux-amd64.tar.gz) `68.77 MB`
 
